@@ -115,5 +115,72 @@ Our work resulted in four principles:
 
 Learn more about our Engineering principles [here](https://github.com/BenchLabs/bench-technology-handbook/blob/master/technology-principles.md). 
 
+>  We create immense value in the world while growing tremendously as individuals, and we do so on timelines that push us while also allowing us to live rich personal lives.
 
-When we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_.
+Sound idealistic? Of course it does. That's the point. This is the culture we're here to create, so why would we make it anything but incredible?
+
+## Using the Bench and Engineering principles together
+
+As mentioned above, the Bench principles give instructions for _how we do it_, and the Engineering principles give instructions for _what we do_. So,when we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_. If this all seems a bit complicated, don't worry: there's a system.
+
+## A test suite for our culture
+
+The axioms collectively answer the question: "what needs to be true for a conversation to be consistent with this principle?" This has a really interesting side effect: each axiom effectively becomes a unit test for a conversation.
+
+For example, the axiom `Rapid iterations create short feedback loops that inform great solutions` is a way to "test" whether a conversation is consistent with _Create Value_. Similarly, `Feedback is most effective when those receiving it feel supported by those giving it` is a way to "test" whether a conversation is consistent with _Foster Growth_.
+
+All together, the axioms act as a test suite for our culture. Every conversation we have, whether async or real-time, in a PR or in a Google Doc, can be run through the test suite to determine whether it is consistent with the culture we're creating.
+
+Consider the following (made up but not uncommon) conversation: 
+
+```
+Manager: 
+In our last meeting, you identified that you have a lack of expertise in what you're working on,
+and we agreed that you would come up with some goals about how to get that expertise.
+Can you share what you came up with?
+Engineer: 
+To be honest, I didn't have time to think about this because of my current deadline.
+Manager: 
+I totally get it. Let's come back to this when you're less busy.
+```
+
+If we run this through the test suite, we see multiple failures:
+
+**Foster Growth**
+```
+Failure: Growth happens outside of your comfort zone
+Reason: Using a deadline as an excuse for not focusing on their own growth.
+Failure: Permission to express dissatisfaction + support to drive change = continuous improvement
+Reason: Letting them off the hook for being busy instead of intervening in the excuse and standing for their growth.
+```
+
+**Succeed Together**
+```
+Failure: We are successful in setting timelines when they push us without burning us out.
+Reason: Somewhere in the planning process a deliverable was agreed on that didn't provide time for learning.
+```
+
+This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the axioms. That's not how we Create Value, Foster Growth, Succeed Together, or Build Agility!
+
+Guided by our principles, a subsequent conversation could be:
+
+```
+Manager: 
+Last time we spoke I let you off the hook. You used a deadline as an excuse for not 
+prioritizing your own growth, and I let you do it. Your growth is at least as important 
+as that deadline! So today, we're going to figure out how to make time for it.
+Engineer: 
+To be honest it's just really hard to find time to think about myself.
+Manager:
+We find time for whatever we consider to be our top priority. Growth is a long-term investment 
+and you need to keep making instalments! So, I'm asking you to raise the priority of your growth. 
+This might result in a temporary slowdown in your project. To be clear: I'm okay with that.
+Can you take this on, and give me your goals at our one-on-one next week?
+Engineer:
+You know what? I've been putting this off for too long. I'll give them to you by tomorrow 
+so we can review them async before our meeting.
+```
+
+This time, the manager steps right into the uncomfortable situation, and doesn't let the engineer off the hook for de-prioritizing their own growth. Notice that this is done with respect and compassion—there is no blame placed, and it is phrased in a supportive manner. As a result, the engineer gets fired up by suddenly seeing that they can make space for their own growth, and goes beyond the original request from their manager. _This_ conversation is consistent with our culture, and it sets up their next conversation as well.
+
+In the event that a conversation doesn't fail any tests and _still_ feels inconsistent with our culture, we're probably just missing an axiom. If this happens, bring the conversation to your manager so you can run it through the test suite together and identify what's missing—as our culture matures, our test suite must mature with it.
