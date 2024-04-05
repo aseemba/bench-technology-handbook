@@ -63,7 +63,7 @@ You can think of the five principles as the boundaries for conversations that ar
 
 ## _What we do_ in Engineering
 
-In Enigneering, we love the Bench Principles, but we felt there was something missing. Specifically, we wanted to define _what we do_ in addition to _how we do it_. To achieve this, we decided to write our own, organization-specific principles.
+In Engineering, we love the Bench Principles, but we felt there was something missing. Specifically, we wanted to define _what we do_ in addition to _how we do it_. To achieve this, we decided to write our own, organization-specific principles.
 
 ### How we created the Engineering Principles
 
