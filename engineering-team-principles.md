@@ -1,6 +1,6 @@
-# Technology, Product & Design (TPD) Principles
+# Engineering Team Principles
 
-This page is a reference for the TPD principles and their supporting assertions.
+This page references the Bench Engineering Team principles and their supporting assertions.
 
 - _[Watch Blake describe this system in a video.](https://www.instagram.com/tv/CHyqMh8hTVW/)_
 - _[Read the guide on how to use these principles.](culture-and-principles.md)_
