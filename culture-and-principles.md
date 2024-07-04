@@ -113,7 +113,7 @@ Our work resulted in four principles:
 - Succeed Together
 - Build Agility
 
-Learn more about our Engineering principles [here](https://github.com/BenchLabs/bench-technology-handbook/blob/master/technology-principles.md). 
+Learn more about our Engineering principles [here](https://github.com/BenchLabs/bench-technology-handbook/blob/master/engineering-team-principles.md). 
 
 >  We create immense value in the world while growing tremendously as individuals, and we do so on timelines that push us while also allowing us to live rich personal lives.
 
@@ -121,7 +121,7 @@ Sound idealistic? Of course it does. That's the point. This is the culture we're
 
 ## Using the Bench and Engineering principles together
 
-As mentioned above, the Bench principles give instructions for _how we do it_, and the Engineering principles give instructions for _what we do_. So,when we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_. If this all seems a bit complicated, don't worry: there's a system.
+As mentioned above, the Bench principles give instructions for _how we do it_, and the Engineering principles give instructions for _what we do_. So, when we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_. If this all seems a bit complicated, don't worry: there's a system.
 
 ## A test suite for our culture
 
